@@ -1,0 +1,10 @@
+dept_no,dept_name,emp_no,last_name,first_name,from_date,to_date
+d001,Marketing,110039,Minakawa,Vishwani,1991-10-01,9999-01-01
+d002,Finance,110114,Legleitner,Isamu,1989-12-17,9999-01-01
+d003,Human Resources,110228,Sigstam,Karsten,1992-03-21,9999-01-01
+d004,Production,110420,Ghazalie,Oscar,1996-08-30,9999-01-01
+d005,Development,110567,DasSarma,Leon,1992-04-25,9999-01-01
+d006,Quality Management,110854,Pesch,Dung,1994-06-28,9999-01-01
+d007,Sales,111133,Zhang,Hauke,1991-03-07,9999-01-01
+d008,Research,111534,Kambil,Hilary,1991-04-08,9999-01-01
+d009,Customer Service,111939,Weedman,Yuchang,1996-01-03,9999-01-01
